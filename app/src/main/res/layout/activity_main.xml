@@ -8,6 +8,8 @@
     android:orientation="vertical"
     tools:context="irismodel.digitalsignature.MainActivity">
 
+
+
     <ImageView
         android:id="@+id/image"
         android:layout_width="match_parent"
